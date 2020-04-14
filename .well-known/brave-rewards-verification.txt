@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: shareout.gitlab.io 
+Token: d1a1d301c7637854a6f34c5cd906c676ad256d1499d07e51a66c11224dc46751
